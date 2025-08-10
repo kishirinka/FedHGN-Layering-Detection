@@ -183,8 +183,6 @@ Results are logged during training and saved to the specified output directory.
 **Author**: kishirinka  
 **Repository**: [FedHGN-Layering-Detection](https://github.com/kishirinka/FedHGN-Layering-Detection)
 
-For questions or collaborations, please open an issue on GitHub.
-
 ---
 
 **Note**: This implementation is for research and educational purposes. Ensure compliance with financial regulations and privacy laws when working with real transaction data.
